@@ -1,6 +1,6 @@
 hi iam charansai
 <<<<<<< HEAD
-my is adireddi
+my surname  is adireddi
 =======
 <<<<<<< HEAD
 i am 55 years old
